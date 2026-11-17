@@ -1,7 +1,7 @@
 # Hi, I'm Frederick 👋
 
-Software engineer focused on **test automation and quality engineering**, based in Bristol, UK.
-I currently work at **Spotlight Sports Group**.
+**Senior Software Development Engineer in Test (SDET)**, based in Bristol, UK.
+I currently work at **Spotlight Sports Group**, building test automation and driving quality engineering.
 
 ## What I do
 
@@ -11,7 +11,7 @@ I currently work at **Spotlight Sports Group**.
 
 ## Where I've been
 
-- **Spotlight Sports Group**, Bristol
+- **Spotlight Sports Group**, Bristol: Senior SDET
 - Consulting delivery on platforms including **ADP iHCM 2** (cloud HR/payroll), **DEFRA Data Sharing Platform**, and **Sport England Active Places Power**
 - **IBM**, Cork: test automation on **IBM X-Force Exchange** (threat intelligence) and UI development on **IBM BigFix**
 - BSc, **University of Limerick**
