@@ -1,17 +1,17 @@
 # Hi, I'm Frederick 👋
 
 **Senior Software Development Engineer in Test (SDET)**, based in Bristol, UK.
-I currently work at **Spotlight Sports Group**, building test automation and driving quality engineering.
+I currently work at **Spotlight Sports Group**, building test automation with **AI orchestration** and driving quality engineering.
 
 ## What I do
 
 - Build UI and API test automation frameworks: **Playwright**, **WebdriverIO**, **Cucumber/BDD**, **Selenium**, **Protractor**, **Postman**
 - Write **TypeScript/JavaScript** and **Python**
-- Lately: experimenting with AI tooling and the **Model Context Protocol (MCP)**
+- Orchestrate **AI agents** in test automation, and build with the **Model Context Protocol (MCP)**
 
 ## Where I've been
 
-- **Spotlight Sports Group**, Bristol: Senior SDET
+- **Spotlight Sports Group**, Bristol: Senior SDET, building test automation with AI orchestration
 - Consulting delivery on platforms including **ADP iHCM 2** (cloud HR/payroll), **DEFRA Data Sharing Platform**, and **Sport England Active Places Power**
 - **IBM**, Cork: test automation on **IBM X-Force Exchange** (threat intelligence) and UI development on **IBM BigFix**
 - BSc, **University of Limerick**
